@@ -116,11 +116,9 @@ gal.uvigo.esei.aed1.chupatedos.iu.Main
 
 ## 🧩 Organización del Trabajo
 
-El proyecto se realiza en grupos de **4–5 estudiantes**. Cada integrante debe conocer todas las partes del sistema: lógica del juego, interfaz y funcionamiento general.
+El proyecto se realizaba en grupos de **4–5 estudiantes**. Cada integrante debía conocer todas las partes del sistema: lógica del juego, interfaz y funcionamiento general.
 
-La docencia supervisará el desarrollo a través de **tres entregas obligatorias**. Cada entrega debe defenderse por **todo el grupo**, y cualquier ausencia sin justificar implica expulsión del equipo.
-
-La copia de código entre grupos implica **suspenso de la parte práctica para ambos**.
+La docencia supervisó el desarrollo a través de **tres entregas obligatorias**. Cada entrega debía defenderse por **todo el grupo**, y cualquier ausencia sin justificar implicaba expulsión del equipo.
 
 ---
 
